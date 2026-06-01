@@ -1,7 +1,6 @@
 # ai-app-builder-backend
 
 Below is a **ready-to-use `README.md`** for your **Colab-based Local Multi-Agent + Bolt-like UI project**.
-You can **copy–paste directly** into `README.md`.
 
 ---
 
